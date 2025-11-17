@@ -21,7 +21,7 @@ TAMA is a human–AI collaborative framework for inductive thematic analysis of 
 The TAMA framework uses a multi-agent workflow consisting of Generation, Evaluation, and Refinement agents, with iterative oversight from a clinical expert. The expert provides initial goals and evaluation criteria and makes the final decision to accept or revise the generated themes.
 
 ### Workflow Diagram
-![TAMA Architecture](figures/tama_architecture.png)
+![TAMA Architecture](figures/TAMA-Workflow.png)
 
 ## Citation
 
